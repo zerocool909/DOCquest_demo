@@ -10,7 +10,7 @@
 
   <br/>
   
-  <img src="public/document_dq.png" alt="DOCquest Dashboard" width="800"/>
+  <img src="document_dq.png" alt="DOCquest Dashboard" width="800"/>
 </div>
 
 ## ✨ Features
@@ -75,7 +75,7 @@ DOCquest leverages powerful AI capabilities through its backend:
 > - **POST `/extract-invoice/`** - Extract structured data using OpenAI
 > - **GET `/extract-markdown/`** - Convert PDFs using markitdown
 >
-> For backend implementation details, visit [DOCquest-API](https://github.com/yourusername/docquest-api)
+> For backend implementation details, visit [DOCquest-API](https://github.com/zerocool909/docquest-api)
 
 ## 🛠️ Tech Stack
 
@@ -90,7 +90,7 @@ DOCquest leverages powerful AI capabilities through its backend:
 
 1. **Clone and Install**
 ```bash
-git clone https://github.com/yourusername/docquest.git
+git clone https://github.com/zerocool909/DOCquest_demo.git
 cd docquest
 npm install
 ```
@@ -116,15 +116,15 @@ Visit [http://localhost:5173](http://localhost:5173) to see your app! 🎉
 ## 🌟 Key Features Showcase
 
 ### AI-Powered Document Processing
-![Document Processing](public/extraction_document_dq.png)
+![Document Processing](extraction_document_dq.png)
 *Watch as AI automatically structures and extracts information from your documents*
 
 ### Smart Search
-![Smart Search](public/tags_document_dq.png)
+![Smart Search](tags_document_dq.png)
 *Find any document instantly with our powerful search system*
 
 ### Beautiful Analytics
-![Analytics](public/dashboard_dq.png)
+![Analytics](dashboard_dq.png)
 *Track your document statistics with our intuitive dashboard*
 
 ## 🤝 Contributing
@@ -138,10 +138,10 @@ MIT © [Your Name] - see the [LICENSE](LICENSE) file for details.
 ---
 
 <div align="center">
-  <p>Made with ❤️ by the DOCquest Team</p>
+  <p>Check out DOCquest for Digitalisation and paperless future</p>
   <p>
-    <a href="https://github.com/yourusername/docquest/issues">Report Bug</a>
+    <a href="https://github.com/zerocool909/DOCquest_demo/issues">Report Bug</a>
     ·
-    <a href="https://github.com/yourusername/docquest/issues">Request Feature</a>
+    <a href="https://github.com/zerocool909/DOCquest_demo/issues">Request Feature</a>
   </p>
 </div>
