@@ -9,8 +9,6 @@
   [![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/)
 
   <br/>
-  
-  <img src="document_dq.png" alt="DOCquest Dashboard" width="800"/>
 </div>
 
 ## ✨ Features
@@ -116,15 +114,12 @@ Visit [http://localhost:5173](http://localhost:5173) to see your app! 🎉
 ## 🌟 Key Features Showcase
 
 ### AI-Powered Document Processing
-![Document Processing](extraction_document_dq.png)
 *Watch as AI automatically structures and extracts information from your documents*
 
 ### Smart Search
-![Smart Search](tags_document_dq.png)
 *Find any document instantly with our powerful search system*
 
 ### Beautiful Analytics
-![Analytics](dashboard_dq.png)
 *Track your document statistics with our intuitive dashboard*
 
 ## 🤝 Contributing
